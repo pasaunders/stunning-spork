@@ -1,0 +1,8 @@
+c:\Users\kaorti\code\microsoft_class\c_sharp\human\bin\Debug\netcoreapp1.1\human.deps.json
+c:\Users\kaorti\code\microsoft_class\c_sharp\human\bin\Debug\netcoreapp1.1\human.runtimeconfig.json
+c:\Users\kaorti\code\microsoft_class\c_sharp\human\bin\Debug\netcoreapp1.1\human.runtimeconfig.dev.json
+c:\Users\kaorti\code\microsoft_class\c_sharp\human\obj\Debug\netcoreapp1.1\human.AssemblyInfo.cs
+c:\Users\kaorti\code\microsoft_class\c_sharp\human\bin\Debug\netcoreapp1.1\human.dll
+c:\Users\kaorti\code\microsoft_class\c_sharp\human\bin\Debug\netcoreapp1.1\human.pdb
+c:\Users\kaorti\code\microsoft_class\c_sharp\human\obj\Debug\netcoreapp1.1\human.dll
+c:\Users\kaorti\code\microsoft_class\c_sharp\human\obj\Debug\netcoreapp1.1\human.pdb
